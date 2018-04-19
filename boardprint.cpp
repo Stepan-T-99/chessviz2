@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<iostream>
+#include"boardprint.h"
 using namespace std;
 void printboard(char a[9][9])
 {

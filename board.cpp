@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<iostream>
+#include"board.h"
 using namespace std;
 void motion0(char a[9][9],char x0,char y0,char x1,char y1,char strk)	
 {

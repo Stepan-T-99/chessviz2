@@ -1,5 +1,8 @@
 #include<stdio.h>
 #include<iostream>
+#include"board.h"
+#include"boardprint.h"
+#include"boardread.h"
 using namespace std;
 int main()
 {
