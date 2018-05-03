@@ -1,0 +1,3 @@
+
+all:
+gcc -Wal -o prog realize.c
